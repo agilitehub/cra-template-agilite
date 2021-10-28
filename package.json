@@ -1,6 +1,6 @@
 {
   "name": "cra-template-agilite",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A create-react-app Template based on presets and configurations used at Agilit-e",
   "author": "Agilit-e",
   "license": "MIT"
